@@ -1,4 +1,4 @@
-Coffe machine software
+Coffee machine software
 
 Key elements:
 - automatic testing;
